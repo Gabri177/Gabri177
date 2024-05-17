@@ -30,20 +30,11 @@ Here are some ideas to get you started:
 
 **About me:**
 <!-- Any image aligned to the right. Beware the width -->
+I am a software development student at 42 Madrid, passionate about technology with a proactive approach. I excel in transforming ideas into innovative solutions thanks to an educational methodology based on peer learning and constant practice. I hold a Master's degree in Epidemiology and a Bachelor's degree in Bioengineering.
 
-I am a software development student at 42 Madrid, a perfect environment for a passionate builder like me. 42 offers a unique education that relies on peer-learning and is 100% hands-on project environment. Here, I thrive in an environment that encourages exploration, innovation, and collaboration. A perfect fit for someone like me who is driven by the desire to turn ideas into tangible solutions.
-- 📫 How to reach me: gabrillo177@gmail.com;
+I have led and collaborated on challenging projects, demonstrating advanced technical skills and the ability to work effectively in a team, always aiming to achieve high-quality results. I am fluent in Spanish and English (both B2), and Chinese as my native language, making me suitable for multicultural and multidisciplinary environments.
 
-**Languages and Tools:** 
-
-<!-- Languages and tools. https://simpleicons.org/ -->
-<code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/c.svg"></code>
-<code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/gnubash.svg"></code>
-<code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/git.svg"></code>
-<code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/vim.svg"></code>
-<code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/visualstudiocode.svg"></code>
-
-## My Github Information 📊
+## My Github Information 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabri177&show_icons=true&locale=en" alt="Gabri177" /></p>
 
