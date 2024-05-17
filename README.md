@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Rashmi](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Yuhong Gao]😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gabri177)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gabri177.)
