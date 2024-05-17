@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrillo177@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabri177&label=Profile%20Views&color=0e75b6&style=flat" alt="Gabri177" /> </p>
 
+
+[![Gabri177's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabri177&amp;theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 **About me:**
 <!-- Any image aligned to the right. Beware the width -->
 I am a software development student at 42 Madrid, passionate about technology with a proactive approach. I excel in transforming ideas into innovative solutions thanks to an educational methodology based on peer learning and constant practice. I hold a Master's degree in Epidemiology and a Bachelor's degree in Bioengineering.
