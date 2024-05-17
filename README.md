@@ -1,8 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I am [Rashmi](https://rusty-sj.github.io/)! 😁
 <!--
-**Gabri177/Gabri177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Statistics
+- 👯 I’m looking to collaborate on ...
 -->
+
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
