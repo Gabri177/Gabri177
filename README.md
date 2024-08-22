@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:** 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,python,debian,linux,vscode,github,vim,md&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,python,debian,linux,vscode,github,vim,md&perline=7)
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabri177)
