@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:** 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,github,python)
-
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,docker,git,python,debian,linux,vscode,github,vim,md,flutter&perline=5)
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabri177)
