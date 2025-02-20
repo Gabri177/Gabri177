@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,c,cpp,python&perline=7)
 
+**Framework**
+![My Skills](https://skillicons.dev/icons?i=spring,vue,windicss&perline=7)
+
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,vim,md&perline=7)
+![My Skills](https://skillicons.dev/icons?i=docker,vite,git,bash,vim,md&perline=7)
 
+**TestTools**
+
+![My Skills](https://skillicons.dev/icons?i=postman&perline=7)
 
 **IDEAs**
 
