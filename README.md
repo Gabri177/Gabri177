@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 **Languages** 
 
-![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,c,cpp,python&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,c,cpp,python&perline=8)
 
 **Framework**
+
 ![My Skills](https://skillicons.dev/icons?i=spring,vue,windicss&perline=7)
 
 **Tools**
