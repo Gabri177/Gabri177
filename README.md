@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-**Languages and Tools:** 
+**Languages** 
 
-![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,c,cpp,docker,git,python,debian,linux,vscode,github,vim,md&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,c,cpp,python&perline=7)
 
+**Tools**
+
+![My Skills](https://skillicons.dev/icons?i=docker,git,vim,md&perline=7)
+
+
+**IDEAs**
+
+![My Skills](https://skillicons.dev/icons?i=vscode,intellij&perline=7)
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabri177)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuhong-gao-/)
